@@ -12,7 +12,6 @@ namespace basics.basics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Commit Changes");
             ////***************************************console app***********************
             //Console.Write("Hi Pharaneesh!");
             //Console.Write(" welcome to sysveda\n");
