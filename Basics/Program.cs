@@ -198,6 +198,7 @@ namespace basics.basics
                 Console.WriteLine(s4[i]);
             }
             Console.WriteLine(s1.Equals(s2));
+            Console.BackgroundColor = ConsoleColor.Green;
             //// -----------------------------------If Conditions---------------------------------- -
             //int a = 10;
             //int b = 20;
