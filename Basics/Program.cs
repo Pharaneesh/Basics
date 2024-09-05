@@ -136,50 +136,6 @@ namespace basics.basics
             //Console.WriteLine("Implicit");
             //int a = 10;
             //float b = 20.34f;
-            //double c = 12.23;
-            //char e = 's';
-            //string myname = "pharaneesh";
-            //long x = 32424234;
-            //Console.WriteLine(Convert.ToInt32(e));
-            //Console.WriteLine(Convert.ToInt64(a));
-            //Console.WriteLine(Convert.ToDouble(b));
-            //Console.WriteLine(Convert.ToSingle(a));
-            //Console.WriteLine(Convert.ToString(x));
-            ////  ----------EXplicit------------------------------------------------------------------ -
-            //int a = 10;
-            //float b = 20.34f;
-            //double c = 12.23;
-            //char e = 's';
-            //string myname = "pharaneesh";
-            //long x = 32424234;
-            //float y = (float)e;
-            //Console.WriteLine(y);
-            //// -----------------------------------------User Input---------------------------------------------- -
-            //Console.WriteLine("enter the value");
-            //int b = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine(b);
-            ////  ----------------------------------------MATH------------------------------------
-            //Console.WriteLine(Math.Max(12, 20));
-            //Console.WriteLine(Math.Min(12, 20));
-            //Console.WriteLine(Math.Sqrt(8));
-            //Console.WriteLine(Math.Floor(24.3));
-            //Console.WriteLine(Math.Round(20.3));
-            //Console.WriteLine(Math.Round(20.8));
-            //Console.WriteLine(Math.Ceiling(87.45));
-            //Console.WriteLine(Math.Abs(-87));
-            // ------------------------------------------String-------------------------------- -
-            string name = "pharaneesh";
-            Console.WriteLine(name);
-            Console.WriteLine(name.GetType());
-            Console.WriteLine(name.GetTypeCode());
-
-            string wrd = "sysveda";
-            string wrd1 = (" is located in perungudi");
-            Console.WriteLine(wrd + wrd1);
-            Console.WriteLine(string.Concat(wrd, wrd1));
-            Console.WriteLine($"length of word:{wrd.Length} word1:{wrd1.Length}");
-            Console.WriteLine(name.ToLower());
-            Console.WriteLine(name.ToUpper());
             Console.WriteLine(name.IndexOf('e'));
             Console.WriteLine(wrd[2]);
             string s1 = "abcdefghijk";
