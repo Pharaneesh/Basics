@@ -155,6 +155,7 @@ namespace basics.basics
             }
             Console.WriteLine(s1.Equals(s2));
             Console.BackgroundColor = ConsoleColor.Green;
+            Console.BackgroundColor = ConsoleColor.Black;
             //// -----------------------------------If Conditions---------------------------------- -
             //int a = 10;
             //int b = 20;
